@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Author: Muhammad Hazeeq Aiman bin Zainal 'Abiddin  
+Title: Course Registration System
+Purpose: To create a system managing university students' registration involving Admin, Students and Facilitators
+Constraint:  
+ - Admin should be able to freely add, update or remove any course or course information
+ - Admin should be able to see reports regarding students and courses
+ - Students should be able to view, register and drop courses
+ - Students should be able to generate and view their academic bills
+ - Students and Facilitators should be able to message each other
