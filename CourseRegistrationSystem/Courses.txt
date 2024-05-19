@@ -1,0 +1,14 @@
+Course Name : a
+Course ID : 1
+Student Quota : 1
+Number of Enrolled Students : 2
+Credit : 1
+Faculty : 1
+Fee : 1.0
+List of Students Enrolled :
+ - 1 (1)
+ - 2 (2)
+
+
+---------------------------------------------------------------------------------------
+

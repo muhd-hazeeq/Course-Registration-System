@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Facillitator
+comment1.params=
+comment1.target=Facillitator()
+comment2.params=faci\ username\ password
+comment2.target=boolean\ login(Facillitator[],\ java.lang.String,\ java.lang.String)
+comment3.params=student
+comment3.target=void\ readStudent(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ writeAnnouncements()
+comment5.params=
+comment5.target=void\ writeStudent()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=
+comment1.target=Admin()
+comment2.params=admin\ username\ password
+comment2.target=boolean\ login(Admin[],\ java.lang.String,\ java.lang.String)
+comment3.params=course
+comment3.target=void\ createCourse(java.util.ArrayList)
+comment4.params=course
+comment4.target=void\ updateCourse(java.util.ArrayList)
+comment5.params=course
+comment5.target=void\ removeCourse(java.util.ArrayList)
+numComments=6

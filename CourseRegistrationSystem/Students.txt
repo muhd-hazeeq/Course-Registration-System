@@ -1,0 +1,18 @@
+Name : 1
+Student ID : 1
+Password : owEAgOun06i9x4Bgu
+List of Enrolled Courses :
+ - a (1)
+
+Academic Fee : RM1.00
+---------------------------------------------------------------------------------------
+
+Name : 2
+Student ID : 2
+Password : AnA60ai9p@57NGj@H
+List of Enrolled Courses :
+ - a (1)
+
+Academic Fee : RM1.00
+---------------------------------------------------------------------------------------
+
